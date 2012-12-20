@@ -1,0 +1,7 @@
+session RA interface
+ra
+providers IPaddr
+providers Dummy
+info IPaddr
+info stonith:external/ssh
+.
